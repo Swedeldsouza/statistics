@@ -1,4 +1,4 @@
 # statistics
 
 
-statistics reference books
+1.https://www.kaggle.com/carlolepelaars/statistics-tutorial
